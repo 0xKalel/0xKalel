@@ -22,19 +22,19 @@ Languages:
 
 <div align="center"> 
 
-<a href="mailto:hebachikhalil@gmail.com">
+<a href="mailto:hebachikhalil@gmail.com" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a> 
-<a href="https://facebook.com/khalil.habachi.9/">
+<a href="https://facebook.com/khalil.habachi.9/" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25">
 </a> 
-<a href="https://www.instagram.com/khalilhabachi/">
+<a href="https://www.instagram.com/khalilhabachi/" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25">
 </a> 
-<a href="https://www.linkedin.com/in/hebachi-khalil/">
+<a href="https://www.linkedin.com/in/hebachi-khalil/" style="text-decoration:none">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25">
 </a> 
-<a href="https://discordapp.com/users/900593834357059584">
+<a href="https://discordapp.com/users/900593834357059584" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25">
 </a> 
 
@@ -57,18 +57,18 @@ Languages:
 
 <div align="center"> 
 
-<a href="">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a> 
-<a href="">![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)</a> 
-<a href="">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</a> 
-<a href="">![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</a> 
-<a href="">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a> 
-<a href="">![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</a> 
-<a href="">![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a> 
-<a href="">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a> 
-<a href="">![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)</a> 
-<a href="">![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)</a> 
-<a href="">![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
-<a href="">![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)</a>
+<a href="" style="text-decoration:none">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a> 
+<a href="" style="text-decoration:none">![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)</a> 
+<a href="" style="text-decoration:none">![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)</a> 
+<a href="" style="text-decoration:none">![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
+<a href="" style="text-decoration:none">![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)</a>
 
 
 </div>
