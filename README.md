@@ -1,74 +1,25 @@
-<!-- github readme -->
-<h1 align="center"> 💫 About Me: </h1>
+# Khalil Hebachi
 
+Lead full-stack engineer. Building for clients around the world since 2012 — Annaba, Algeria (GMT+1).
 
-<p align="center"> Full-time Full Stack Web Developer  </p>
+Most of my work lives in private and client repos. The results are public:
 
-<p align="center"> 
-Languages:
-  &nbsp;
-  <img src="https://www.countryflags.com/wp-content/uploads/france-flag-png-xl.png" width="35" height="20">
-  <img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-xl.png" width="35" height="20">
-</p>
+### [StoragePal](https://storagepal.fr) — Paris self-storage platform
+I lead development: two developers, two testers, the technical roadmap.
+**+69%** orders year over year · **−22%** ad spend per order · catalogue **10× faster** (9.1 s → 0.9 s)
 
+### SPS warehouse app
+Connects bookings to the warehouse floor. Built end to end, from design to support.
+**15,169** barcode scans · **8,847** items moved between bays · **99.1%** sync success over 20,400 runs
 
-<h1 align="center"> 🌐 Where you can reach me: </h1>
-<p align="center"> Contact or Call me for <b>free</b> in order to discuss your situation and deadlines.</p>
-  
+### [RavenClip](https://ravenclip.com) — my own SaaS
+Pick a niche; it watches the news and turns it into short vertical videos.
+Paying customers **4 months** after the first commit · **28 AI agents** across 10+ providers · **~1,300** automated tests
 
+## How I work
 
+AI-native: I write the specs, agents implement, I review for correctness and simplicity — and everything ships behind tests. The full process is at [how I work](https://0xkalel.github.io/how-i-work/).
 
+## Links
 
-
-<div align="center"> 
-
-<a href="mailto:hebachikhalil@gmail.com" style="text-decoration:none !important">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
-</a> 
-<a href="https://facebook.com/khalil.habachi.9/" style="text-decoration:none !important">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25">
-</a> 
-<a href="https://www.instagram.com/khalilhabachi/" style="text-decoration:none !important">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25">
-</a> 
-<a href="https://www.linkedin.com/in/hebachi-khalil/" style="text-decoration:none !important">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25">
-</a> 
-<a href="https://discordapp.com/users/900593834357059584" style="text-decoration:none !important">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25">
-</a> 
-
-
-
-<!-- drafts to be used later: -->
-
-<!-- <a href="">[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/algerian/)</a>  -->
-<!-- <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/algerian/)</a>  -->
-
-<!-- <a href="">[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dsmith4life)</a>  -->
-<!-- <a href="">[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iamthereaper85)</a>  -->
-<!-- <a href="">[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17231101)</a>  -->
-<!-- <a href="">[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wh0isdsmith)</a>  -->
-<!-- <a href="">[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCUUC12JAiWWRX8fenlAMHrw)</a> -->
-
-<!-- </div> -->
-
-<h1 align="center"> 💻 Things you can fully count on me on: </h1>
-
-<div align="center"> 
-
-<a href="" style="text-decoration:none !important">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a> 
-<a href="" style="text-decoration:none !important">![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)</a> 
-<a href="" style="text-decoration:none !important">![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)</a> 
-<a href="" style="text-decoration:none !important">![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
-<a href="" style="text-decoration:none !important">![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)</a>
-
-
-</div>
+[Portfolio](https://0xkalel.github.io) · [CV](https://0xkalel.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/hebachi-khalil/) · [hebachikhalil@gmail.com](mailto:hebachikhalil@gmail.com)
