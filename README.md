@@ -18,7 +18,7 @@ First paying customer **105 days** after the first commit · **33 AI agents** ac
 
 ## How I work
 
-AI-native: I write the specs, agents implement, I review for correctness and simplicity — and everything ships behind tests. The full process is at [how I work](https://0xkalel.github.io/how-i-work/).
+AI-native, human in the loop: I write the specs, agents implement, and nothing ships until I have reviewed it for correctness and simplicity — behind tests. The full process is at [how I work](https://0xkalel.github.io/how-i-work/).
 
 ## Links
 
