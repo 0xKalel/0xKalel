@@ -6,7 +6,7 @@ Most of my work lives in private and client repos. The results are public:
 
 ### [StoragePal](https://storagepal.fr) — Paris self-storage platform
 I lead development: two developers, two testers, the technical roadmap.
-**+69%** orders year over year · **−22%** ad spend per order · catalogue server response **10× faster** (9.1 s → 0.9 s)
+**+69%** orders year over year · **−22%** ad spend per order · catalogue server response **10× faster** (9.1 s → 0.9 s) · backoffice search **3.0 s → 15 ms**
 
 ### [SPS warehouse app](https://0xkalel.github.io/work/sps/)
 Connects bookings to the warehouse floor. Built end to end, from design to support.
