@@ -6,15 +6,15 @@ Most of my work lives in private and client repos. The results are public:
 
 ### [StoragePal](https://storagepal.fr) — Paris self-storage platform
 I lead development: two developers, two testers, the technical roadmap.
-**+69%** orders year over year · **−22%** ad spend per order · catalogue **10× faster** (9.1 s → 0.9 s)
+**+69%** orders year over year · **−22%** ad spend per order · catalogue server response **10× faster** (9.1 s → 0.9 s)
 
 ### [SPS warehouse app](https://0xkalel.github.io/work/sps/)
 Connects bookings to the warehouse floor. Built end to end, from design to support.
-**15,169** barcode scans · **8,847** items moved between bays · **99.1%** sync success over 20,400 runs
+In use **every weekday** since April 2026 · **15,169** scan-event records · **8,847** recorded bay changes · **99.1%** of 20,416 logged sync operations completed without error (trailing 90 days)
 
 ### [RavenClip](https://ravenclip.com) — my own SaaS
 Pick a niche; it watches the news and turns it into short vertical videos.
-Paying customers **4 months** after the first commit · **28 AI agents** across 10+ providers · **~1,300** automated tests
+First paying customer **105 days** after the first commit · **33 AI agents** across 10 paid providers · **~1,300** automated tests (4,871 cases) · **$0.36** API cost per rendered video
 
 ## How I work
 
