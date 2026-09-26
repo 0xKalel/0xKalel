@@ -8,7 +8,7 @@ Most of my work lives in private and client repos. The results are public:
 I lead development: two developers, two testers, the technical roadmap.
 **+69%** orders year over year · **−22%** ad spend per order · catalogue **10× faster** (9.1 s → 0.9 s)
 
-### SPS warehouse app
+### [SPS warehouse app](https://0xkalel.github.io/work/sps/)
 Connects bookings to the warehouse floor. Built end to end, from design to support.
 **15,169** barcode scans · **8,847** items moved between bays · **99.1%** sync success over 20,400 runs
 
